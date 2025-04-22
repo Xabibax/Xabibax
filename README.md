@@ -41,10 +41,7 @@ Je suis **développeur logiciel**, passionné par la conception de systèmes rob
 - 🌐 Mon blog technique : [https://xavieraleman.fr/](https://xavieraleman.fr/)
 - 📝 Mon CV en ligne : [https://xavieraleman.fr/cv/](https://xavieraleman.fr/cv/)
 - 📨 Me contacter : [contact@xavieraleman.fr](mailto:contact@xavieraleman.fr)
-- <a href="https://www.codingame.com/profile/ton-profil" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/CodinGame_Logo_2021.svg" alt="CodinGame" style="height: 1em; vertical-align: middle; margin-right: 4px;" />
-  CodinGame
-</a> Mon profil CodinGame : [https://www.codingame.com/](https://www.codingame.com/profile/8c760766838af19a2598bc7fb1c3c1126450381)
+- :keyboard: Mon profil CodinGame : [https://www.codingame.com/](https://www.codingame.com/profile/8c760766838af19a2598bc7fb1c3c1126450381)
 
 ---
 
